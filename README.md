@@ -1,4 +1,4 @@
 # Prueba_repo
 Repositorio para probar Git
 
-Prueba de cambio
+Cambio de prueba desde el computador
